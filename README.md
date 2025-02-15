@@ -75,7 +75,7 @@
         </section>
         <section id="contato">
             <h2>Entre em Contato</h2>
-            <form action="mailto:barsilpormaispoliticaspublicas@gmail.com" method="post" enctype="text/plain">
+            <form action="mailto:brasilpormaispoliticaspublicas@gmail.com.br" method="post" enctype="text/plain">
                 <div>
                     <label for="escolha">Escolha:</label>
                     <select id="escolha" name="escolha">
@@ -112,7 +112,7 @@
     </main>
     <footer>
         <p>© 2025 Instituto IJ. Todos os direitos reservados.</p>
-        <p>Contato: brasilpormaispoliticaspublicas@gmail.com</p>
+        <p>Contato: brasilpormaispoliticaspublicas@gmail.com.br</p>
     </footer>
 
     <script>
@@ -122,3 +122,4 @@
     </script>
 </body>
 </html>
+
