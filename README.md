@@ -57,7 +57,7 @@
 <body>
     <header>
         <h1>Instituto IJ</h1>
-        <p>Transformando Vidas através da Educação e Inovação</p>
+        <p>Transformando Vidas através de políticas públicas</p>
     </header>
     <nav>
         <button onclick="scrollToSection('sobre')">Sobre Nós</button>
@@ -75,7 +75,7 @@
         </section>
         <section id="contato">
             <h2>Entre em Contato</h2>
-            <form action="mailto:parcerias@ij.org.br" method="post" enctype="text/plain">
+            <form action="mailto:barsilpormaispoliticaspublicas@gmail.com" method="post" enctype="text/plain">
                 <div>
                     <label for="escolha">Escolha:</label>
                     <select id="escolha" name="escolha">
@@ -112,7 +112,7 @@
     </main>
     <footer>
         <p>© 2025 Instituto IJ. Todos os direitos reservados.</p>
-        <p>Contato: parcerias@ij.org.br</p>
+        <p>Contato: brasilpormaispoliticaspublicas@gmail.com</p>
     </footer>
 
     <script>
