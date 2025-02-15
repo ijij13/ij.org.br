@@ -112,7 +112,7 @@
     </main>
     <footer>
         <p>© 2025 Instituto IJ. Todos os direitos reservados.</p>
-        <p>Contato: brasilpormaispoliticaspublicas@gmail.com.br</p>
+        <p>Contato: parcerias@ij.org.br</p>
     </footer>
 
     <script>
